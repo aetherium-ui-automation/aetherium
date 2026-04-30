@@ -11,6 +11,13 @@ Aetherium is an advanced automation orchestrator that bridges the gap between de
 
 ## 🖥️ Visual Overview
 
+### Aetherium in Action
+Watch how the Aetherium Engine processes complex Enterprise UI flows using hybrid blueprint logic and real-time spatial mapping.
+
+![Aetherium Demo](https://github.com/aetherium-ui-automation/aetherium/blob/main/docs/images/running%20blueprints%20demo.gif?raw=true)
+
+---
+
 ### GUI Command Center & Headless Execution
 Aetherium operates both as a rich desktop interface for orchestration and a robust headless actuator via CLI for seamless pipeline integration.
 
