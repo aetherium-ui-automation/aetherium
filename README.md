@@ -11,12 +11,16 @@ Aetherium is an advanced automation orchestrator that bridges the gap between de
 
 ## 🖥️ Visual Overview
 
-### Execution Command Center
-The primary interface where Aetherium executes AI-driven prompts and orchestrates web interactions in real-time.
-![Main Screen](docs/images/main%20screen.png)
+### GUI Command Center & Headless Execution
+Aetherium operates both as a rich desktop interface for orchestration and a robust headless actuator via CLI for seamless pipeline integration.
+
+| GUI Interface | Headless Command Line Execution |
+| :---: | :---: |
+| ![Main Screen](docs/images/main%20screen.png) | ![CLI Execution](docs/images/command%20line%20execution.png) |
 
 ### Blueprint Orchestration
 Define deterministic flows with the **Blueprints Manager**. The **Step Editor** allows for granular control over every interaction.
+
 | Blueprints Manager | Step Editor |
 | :---: | :---: |
 | ![Manager](docs/images/blueprints%20manager%20screen.png) | ![Step Editor](docs/images/edit%20step%20blueprint.png) |
@@ -28,8 +32,8 @@ Define deterministic flows with the **Blueprints Manager**. The **Step Editor** 
 ## ✨ Why Aetherium?
 
 * **Hybrid Execution:** Combine the reliability of **Blueprints** with the flexibility of **AI-Driven Logic**.
+* **Headless Capability:** Run automation in the background via CLI—ideal for CI/CD pipelines and scheduled tasks.
 * **Enterprise Optimized:** Specifically designed for **ERP/CRM** layouts where traditional selectors often fail.
-* **Actuator Protocol:** Full customization of internal scripts used for clicking, scrolling, and element discovery.
 * **Spatial Mapping:** Advanced engine that produces a comprehensive map of all relevant elements on a page.
 * **Local-First Privacy:** Full control over your data and AI provider connections.
 
@@ -40,6 +44,7 @@ Define deterministic flows with the **Blueprints Manager**. The **Step Editor** 
 For full guides and technical specs, visit our **[Official Wiki](https://github.com/aetherium-ui-automation/aetherium/wiki)**.
 
 * [🚀 Installation Guide](https://github.com/aetherium-ui-automation/aetherium/wiki/installation)
+* [💰 Pricing & Licensing](https://github.com/aetherium-ui-automation/aetherium/wiki/pricing-and-licensing)
 * [📜 Third-Party Licenses](https://github.com/aetherium-ui-automation/aetherium/wiki/licenses)
 * **Found a bug?** [Open a GitHub Issue](https://github.com/aetherium-ui-automation/aetherium/issues).
 
