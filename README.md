@@ -12,7 +12,7 @@ Aetherium is an advanced automation orchestrator that bridges the gap between de
 ## 🖥️ Visual Overview
 
 ### Execution Command Center
-The primary interface where Aetherium executes AI-driven prompts and orchestrates web interactions in real-time via the **integrated automation browser**.
+The primary interface where Aetherium executes AI-driven prompts and orchestrates web interactions in real-time.
 ![Main Screen](docs/images/main%20screen.png)
 
 ### Blueprint Orchestration
@@ -29,8 +29,8 @@ Define deterministic flows with the **Blueprints Manager**. The **Step Editor** 
 
 * **Hybrid Execution:** Combine the reliability of **Blueprints** with the flexibility of **AI-Driven Logic**.
 * **Enterprise Optimized:** Specifically designed for **ERP/CRM** layouts where traditional selectors often fail.
-* **LLM Agnostic:** Native support for **Gemini, OpenAI, and Groq**.
-* **Zero Overhead:** Rapid deployment without the bloat of traditional suites.
+* **Actuator Protocol:** Full customization of internal scripts used for clicking, scrolling, and element discovery.
+* **Spatial Mapping:** Advanced engine that produces a comprehensive map of all relevant elements on a page.
 * **Local-First Privacy:** Full control over your data and AI provider connections.
 
 ---
