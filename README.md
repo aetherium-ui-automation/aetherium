@@ -14,7 +14,8 @@ Aetherium is an advanced automation orchestrator that bridges the gap between de
 ### Aetherium in Action
 Watch how the Aetherium Engine processes complex Enterprise UI flows using hybrid blueprint logic and real-time spatial mapping.
 
-![Aetherium Demo](https://github.com/aetherium-ui-automation/aetherium/blob/main/docs/images/running%20blueprints%20demo.gif?raw=true)
+![Aetherium Demo](https://github.com/aetherium-ui-automation/aetherium/blob/main/docs/images/running%20GUI%20blueprints%20demo.gif?raw=true)
+![Aetherium Demo](https://github.com/aetherium-ui-automation/aetherium/blob/main/docs/images/running%20CLI%20blueprints%20demo.gif?raw=true)
 
 ---
 
