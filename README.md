@@ -3,10 +3,8 @@
 **The high-performance, AI-driven automation engine for web applications.**
 
 Aetherium is an advanced automation orchestrator that bridges the gap between deterministic workflows and adaptive AI intelligence. Optimized for data-heavy systems like **Financial Platforms, ERP, and CRM**, it provides a lightweight yet powerful actuator for complex web environments.
-Via GUI:
-[![Latest Release](https://img.shields.io/github/v/release/aetherium-ui-automation/aetherium)](https://github.com/aetherium-ui-automation/aetherium/releases)
 
-Via CLI:
+[![Latest Release](https://img.shields.io/github/v/release/aetherium-ui-automation/aetherium)](https://github.com/aetherium-ui-automation/aetherium/releases)
 [![License](https://img.shields.io/badge/license-Proprietary-blue.svg)](https://github.com/aetherium-ui-automation/aetherium/wiki/pricing-and-licensing)
 
 ---
@@ -16,7 +14,10 @@ Via CLI:
 ### Aetherium in Action
 Watch how the Aetherium Engine processes complex Enterprise UI flows using hybrid blueprint logic and real-time spatial mapping.
 
+Via GUI:
 ![Aetherium Demo](https://github.com/aetherium-ui-automation/aetherium/blob/main/docs/images/running%20GUI%20blueprints%20demo.gif?raw=true)
+
+Via CLI:
 ![Aetherium Demo](https://github.com/aetherium-ui-automation/aetherium/blob/main/docs/images/running%20CLI%20blueprints%20demo.gif?raw=true)
 
 ---
